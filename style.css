@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 100px;
+    background-image: linear-gradient(43deg, #4158d0  0%, #c850c0 50%, #ffcc70 100%);
+
+    -webkit-background-clip: text;
+    color: transparent;
+    
+
+
+}
